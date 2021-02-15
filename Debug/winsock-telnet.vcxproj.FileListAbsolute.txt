@@ -1,0 +1,2 @@
+C:\Users\hsyn\Desktop\SoftRoles\winsock-telnet\Debug\winsock-telnet.exe
+C:\Users\hsyn\Desktop\SoftRoles\winsock-telnet\Debug\winsock-telnet.pdb
